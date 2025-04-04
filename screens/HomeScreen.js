@@ -107,7 +107,7 @@ container: {
 flex: 1,
 },
 header: {
-backgroundColor: '#5e72e4',
+backgroundColor: '#008000',
 padding: 20,
 alignItems: 'center',
 borderBottomLeftRadius: 20,
